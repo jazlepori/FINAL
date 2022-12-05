@@ -1,0 +1,169 @@
+
+
+.display-4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+.display-5 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
+ 
+}
+
+p {
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+}
+.brand {
+  height: 45px;
+  width: 140px;
+}
+.section1{
+  border-bottom: solid 4px black;
+  border-top: solid 4px black;
+  background: url(imagenes-jaz/trama.png);
+}
+
+.pastillas{
+  background-color: white ;
+}
+
+
+
+.coleccionesp {
+  border-left: solid 4px black ;
+  border-right: solid 4px black ;
+  }
+
+
+@media (max-width:992px ) {
+   .coleccionesp{
+  border-bottom: solid 4px black ;
+  }
+}
+@media (max-width:992px ) {
+  .eventosp{
+ border-left: solid 4px black ;
+ border-right: solid 4px black ;
+ }
+}
+
+.visitasp {
+  border-left: solid 4px black ;
+  border-right: solid 4px black ;
+  }
+@media (max-width:992px ) {
+    .visitasp{
+   border-top: solid 4px black ;
+   }
+ }
+.navbar{
+  border-bottom: solid 4px black;
+  background-color: #FFFDFD;
+
+}
+
+#navbarNavAltMarkup {
+  font-family: futura-pt, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+
+#muestra {
+  background: url(imagenes-jaz/trama.png);
+  
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  color: white;
+}
+
+.pt-5 {
+  padding-top: 3rem !important;
+}
+
+
+#infomuestra {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+
+.reseñas {
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+  font-size: 17pt;
+}
+
+
+.redes {
+  font-size: 10pt;
+}
+
+
+#boton2 {
+  background-color: #1E1D1D; 
+}
+
+#boton2:hover {
+  background-color: #234EBA; 
+}
+
+#proyecto {
+  border: black solid 4px;
+}
+
+
+
+.btn-section1{
+  background-color: #234EBA;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+
+}
+
+.btn-section1:hover{
+  background-color: #668dee;
+}
+
+.icon-pastilla{
+  color: #234eba;
+}
+.p-artistas{
+  max-width:300px;
+}
+
+.divisor1{
+  background:url(imagenes-jaz/divisor1.png) no-repeat left top scroll ;
+  height: 51px;
+  border-bottom:solid 4px black;
+  border-top:solid 4px black;
+}
+
+
+.mapa{
+  border: solid 4px black;
+ }
+
+
+@media (min-width:992px) {
+  .container-visitas{
+   border-right: solid 4px black ;
+ }
+}
+
+@media  (max-width: 992px){
+  .como-llegar{
+    border-top:solid 4px black;
+}
+  
+}
+
+#container-quienes-somos{
+  height: 317px;
+  background: url(imagenes-jaz/trama.png);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  color: white;
+} 
